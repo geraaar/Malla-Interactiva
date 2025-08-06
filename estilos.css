@@ -70,3 +70,18 @@ h1 {
     grid-template-columns: 1fr;
   }
 }
+
+.card.selected {
+  border-left-color: #1a6cd4;
+  background-color: #eaf4ff;
+}
+
+.mensaje {
+  margin-top: 0.8rem;
+  font-size: 0.85rem;
+  color: #155fa0;
+  background-color: #d9ecff;
+  border-left: 3px solid #3c8dbc;
+  padding: 0.5rem;
+  border-radius: 6px;
+}
